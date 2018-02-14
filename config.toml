@@ -1,0 +1,18 @@
+baseURL = "https://kyo91.github.io/"
+languageCode = "en-us"
+title = "Kyo91 - A Programmer's Tale"
+
+GithubUsername = "kyo91"
+
+theme = "bootstrap"
+
+pygmentsCodefences = "true"
+
+
+[[menu.sidebar]]
+  name = "Github"
+  url = "https://github.com/kyo91"
+
+[[params]]
+  author = "Sam Blumenthal"
+  description =  "A Young Programmer's Tale"
